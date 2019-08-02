@@ -2,5 +2,5 @@ classes=100
 train  = data/cifar100/train.list
 valid  = data/cifar100/test.list
 labels = data/cifar100/labels.txt
-backup = backup/
+backup = models/cifar100
 top=2
